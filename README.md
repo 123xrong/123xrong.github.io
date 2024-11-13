@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>About Me</h1>
-    <img src="IMG_1953.jpeg" alt="ProfilePicture" width="400" height="400">
+    <img src="IMG_1953.jpeg" alt="ProfilePicture" width="200" height="200">
     <p>I'm a PhD student studying Biomedical Data Science at UW-Madison. My path to where I am is
     a bit unconventional, but I'm excited to be here and to learn more about data science. Before
     joining the current program, I was a doctoral student in Educational Psychology at UW-Madison.
@@ -20,9 +20,9 @@
     </p>
     <h2>Ongoing Projects</h2>
     <h3>Project 1: Sleep or Awake: EEG Data Analysis</h3>
-    <p>This project aims to identify the patterns in EEG data during REM sleep and 
+    <p>This project aims to identify the patterns in EEG data during sleep and 
         awake status. The REM stage, which is also know and disconnected consiousness, is a stage of sleep that
-        shows resembled brain activity to the awake status. By identifying the patterns in EEG data during REM,
+        shows resembled brain activity to the awake status. By identifying the patterns in brain activity during REM,
         we hope to better understand the brain activity during REM and its relationship with the awake status.
         Potential applications of this project include improving the diagnosis of sleep disorders, sleep quality
         monitoring, and anethesia planning.</p>
