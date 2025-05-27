@@ -1,29 +1,58 @@
-/* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Playfair+Display:wght@700&display=swap');
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Open+Sans&display=swap');
 
-/* Set the font for the header */
-header {
-    font-family: 'Playfair Display', serif;
-    background-color: #f8f9fa;
-    color: #343a40;
-    padding: 20px;
-    text-align: center;
-}
-
-/* Set the font for the body */
 body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #ffffff;
-    color: #212529;
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
 }
 
-/* Add some styles for boxes */
-.box {
-    background-color: #e9ecef;
-    border: 1px solid #dee2e6;
-    padding: 20px;
-    margin: 20px;
-    border-radius: 5px;
+header {
+  background-color: #6C63FF;
+  color: white;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.profile-img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin: 1rem auto;
+}
+
+section {
+  background-color: white;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+h2 {
+  color: #6C63FF;
+}
+
+a {
+  color: #FF6584;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
 }
